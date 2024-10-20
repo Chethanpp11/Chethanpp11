@@ -1,6 +1,7 @@
 
-👋 Hi, I’m Chethan P P! 
+👋 Hi, I’m Chethan P P! https://chethanpp11-portfolio.carrd.co/
 🔍 Aspiring Data Analyst | Bringing Data to Life
+
 
 I’m driven by the power of data! With expertise in Python, SQL, Excel, Tableau, and Power BI, I love transforming raw numbers into impactful stories through analysis and visualizations. 
 Whether it's uncovering trends or solving complex problems, I’m always up for the challenge!
